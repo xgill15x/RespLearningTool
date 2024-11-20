@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RespLearningTool/static/css/main.e6c13ad2.css",
+    "main.js": "/RespLearningTool/static/js/main.8e735d3d.js",
+    "static/js/453.58af646b.chunk.js": "/RespLearningTool/static/js/453.58af646b.chunk.js",
+    "index.html": "/RespLearningTool/index.html",
+    "main.e6c13ad2.css.map": "/RespLearningTool/static/css/main.e6c13ad2.css.map",
+    "main.8e735d3d.js.map": "/RespLearningTool/static/js/main.8e735d3d.js.map",
+    "453.58af646b.chunk.js.map": "/RespLearningTool/static/js/453.58af646b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e735d3d.js"
+  ]
+}
